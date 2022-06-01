@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;500;700&display=swap');
+/*font-family: 'Merriweather Sans', sans-serif; */
+
+:root {
+  -body-bg-color: #22212C;
+  --text-color: #837E9F;
+  --bg-cards: #302F3D;
+  --bg-techs: #CB92B1
+}
+
+/* Color Theme Swatches in Hex */
+.color-theme_noche-1-hex { color: #B8C0D9; }
+.color-theme_noche-2-hex { color: #102540; }
+.color-theme_noche-3-hex { color: #495B73; }
+.color-theme_noche-4-hex { color: #226473; }
+.color-theme_noche-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.color-theme_noche-1-rgba { color: rgba(184, 192, 217, 1); }
+.color-theme_noche-2-rgba { color: rgba(16, 37, 64, 1); }
+.color-theme_noche-3-rgba { color: rgba(73, 91, 115, 1); }
+.color-theme_noche-4-rgba { color: rgba(34, 100, 115, 1); }
+.color-theme_noche-5-rgba { color: rgba(13, 13, 13, 1); }
+
+/* Color Theme Swatches in HSLA */
+.color-theme_noche-1-hsla { color: hsla(225, 30, 78, 1); }
+.color-theme_noche-2-hsla { color: hsla(213, 60, 15, 1); }
+.color-theme_noche-3-hsla { color: hsla(214, 22, 36, 1); }
+.color-theme_noche-4-hsla { color: hsla(191, 54, 29, 1); }
+.color-theme_noche-5-hsla { color: hsla(0, 0, 5, 1); }
